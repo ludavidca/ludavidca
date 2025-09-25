@@ -1,23 +1,26 @@
 # Hi there, I'm David! 👋
 
 🎓 **Management Engineering @ University of Waterloo**  
-💼 **Prev @ Loblaw Digital**
+💼 **Previously Software Developer @ Loblaw Digital**
 
 ## What I'm passionate about:
-- 🚀 **Full Stack Development** - Building end-to-end web applications with React, Next.js, and TypeScript
-- 🤖 **AI Agents & LLM Tools** - Architecting scalable ML pipelines and integrating LLMs for real-world applications
-- 📊 **Data-Driven Solutions** - Creating systems that turn complex data into actionable insights
-
-## Recent Highlights:
-- Built LLM inference pipelines processing 150K+ products, enabling $15M in projected cost savings
-- Developed Transformer models for battery health prediction in electric aircraft
-- Created UW UpNext, an app to help students discover Events at UWaterloo
+- 🚀 **Full Stack Development** - Building end-to-end web applications
+- 🤖 **AI Agents & LLM Tools** - Architecting scalable ML pipelines and integrating LLMs
+- 📊 **Data-Driven Solutions** - Creating systems that turn data into actionable insights
 
 ## Tech Stack:
-**Languages:** Python, TypeScript, JavaScript, SQL  
-**Full Stack:** React, Next.js, Node.js, MongoDB, PostgreSQL
-**AI/ML:** LangChain, PyTorch, OpenAI API, Vertex AI  
-**Cloud & Tools:** GCP, Docker, Airflow, BigQuery
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 📫 **Let's connect:** [LinkedIn](https://linkedin.com/in/davidjylu) | d66lu@uwaterloo.ca
