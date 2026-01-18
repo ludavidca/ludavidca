@@ -1,7 +1,7 @@
 # Hi there, I'm David! 👋
 
 🎓 **Management Engineering @ University of Waterloo**  
-💼 **Previously Software Developer @ Loblaw Digital**
+💼 **Machine Learning Developer @ Cognichip, Prev @ Loblaw Digital**
 
 ## What I'm passionate about:
 - 🚀 **Full Stack Development** - Building end-to-end web applications
